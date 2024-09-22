@@ -120,4 +120,4 @@ HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-ali
 ### Description
 
 ### Title
-tour.name = Anughrah kebudayaan Indonesia
+tour.name = Anugerah kebudayaan Indonesia
